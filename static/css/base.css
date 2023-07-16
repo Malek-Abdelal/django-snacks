@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    justify-content: flex-end;
+    background-color:rgb(111, 243, 181);
+}
+
+nav div{
+    width: 10%;
+    display: flex;
+    justify-content: space-around;
+    padding-right: 5% ;
+}
+
+nav a{
+text-decoration: none;
+}
